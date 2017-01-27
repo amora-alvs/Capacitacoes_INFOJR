@@ -7,10 +7,10 @@
 **Naturalmente eu não aprendi tudo de primeira, mas ganhei uma cartilha de comandos e sintaxes para praticar em casa**
 
 Na cartilha há muitas coisas legais:
-* 1. Como colocar imagens
-2. Como colocar links
-3. Como fazer citações
-4. Como fazer menções, entre outras coisas
+* Como colocar imagens
+* Como colocar links
+* Como fazer citações
+* Como fazer menções, entre outras coisas
 
 > Foi muito legal aprender todas essas funcionalidades e as possibilidades com o GitHub. Agora é só estudar e se dedicar, que tudo dará certo :rocket: :metal:
 

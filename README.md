@@ -6,7 +6,7 @@
 
 **Naturalmente eu não aprendi tudo de primeira, mas ganhei uma cartilha de comandos e sintaxes para praticar em casa**
 
-* Na cartilha há muitas coisas legais:
+ Na cartilha há muitas coisas legais:
 1. Como colocar imagens
 2. Como colocar links
 3. Como fazer citações
